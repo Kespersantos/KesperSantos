@@ -6,7 +6,12 @@
 - 😄 Pronouns: Ele/Dele
 
 
-[![KesperSantos GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KesperSantos&show_icons=false&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<div align="center">
+  <a href="https://github.com/Kespersantos">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kespersantos&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kespersantos&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 .
 
