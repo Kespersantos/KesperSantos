@@ -1,22 +1,20 @@
-nome: Gerar dados
-
-em:
-  Horário: # Executar a cada 12 horas
-    - cron: "* */12 * * * *"
-  workflow_dispatch:
-
-Vagas:
-  construir:
-    name: Trabalhos para atualizar dados
+name: Trabalhos para atualizar dados
     Runs-on: ubuntu-mais recente
     Passos:
+      # Cartões de resumo
+      - Usos: ações/checkout@v2
+      - Usos: VN7N24FZKQ/GitHub-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ segredos. GITHUB_TOKEN }}
+        com:
+          NOME DE USUÁRIO: ${{ github.repository_owner }}
+
       # Animação Snake
       - usos: Platane/snk@master
         Identificação: Cobra-GIF
         com:
-          github_user_name: kespersantos
+          github_user_name: KesperSantos
           svg_out_path: dist/github-contribution-grid-snake.svg
-
       - Usos: Crazy-Max/Ghaction-GitHub-pages@v2.1.3
         com:
           target_branch: saída
