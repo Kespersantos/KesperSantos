@@ -1,5 +1,4 @@
-### Olá como está? 
-Me chamo Gaspar M.Santos "kesper"
+### Olá como está? Me chamo Gaspar M.Santos "kesper"
 
 
 - 🌱 I’m currently learning : Python e Javascript
@@ -7,9 +6,9 @@ Me chamo Gaspar M.Santos "kesper"
 - 😄 Pronouns: Ele/Dele
 
 
-[![KesperSantos GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KesperSantos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![KesperSantos GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KesperSantos&show_icons=false&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-
+.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kesper-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,6 +18,7 @@ Me chamo Gaspar M.Santos "kesper"
   <img align="center" alt="Kesper-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kesper-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+.
 
 <div> 
  
@@ -28,3 +28,6 @@ Me chamo Gaspar M.Santos "kesper"
   <a href="https://www.linkedin.com/in/gaspar-moreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+README.mdc
