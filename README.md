@@ -6,7 +6,11 @@ Me chamo Gaspar M.Santos "kesper"
 - 🤔 I’m looking for help with Programação
 - 😄 Pronouns: Ele/Dele
 
--->
+
+[![KesperSantos GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KesperSantos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Kesper-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kesper-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
