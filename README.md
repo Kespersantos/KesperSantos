@@ -1,4 +1,4 @@
-### Olá como está? Me chamo Gaspar M.Santos "kesper"
+### Olá como está? Me chamo Gaspar M.Santos "Kesper"
 
 
 - 🌱 I’m currently learning : Python e Javascript
