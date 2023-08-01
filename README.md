@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning : Python e Javascript
 - 🤔 I’m looking for help with Programação
 - 😄 Pronouns: Ele/Dele
-
-- (https://github.com/Kespersantos/KesperSantos/assets/126008233/c3179829-18f2-4e1f-98d3-150096820ad3)
+(https://github.com/Kespersantos/KesperSantos/assets/126008233/c3179829-18f2-4e1f-98d3-150096820ad3)
   
 
 
