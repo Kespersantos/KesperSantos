@@ -3,14 +3,8 @@
 
 - 🌱 I’m currently learning : C#
 - 🤔 I’m looking for help with Programação
-  
 
-<div align="center">
-  <a href="https://github.com/Kespersantos">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kespersantos&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kespersantos&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+  [![Kesper Santos GitHub stats](https://github-readme-stats.vercel.app/api?username= Kespersantos)](https://github.com/Kespersantos/github-readme-stats)
 
 .
 
