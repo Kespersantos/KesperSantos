@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning : C#
 - 🤔 I’m looking for help with Programação
 
-  [![Kesper Santos GitHub stats](https://github-readme-stats.vercel.app/api?username= Kespersantos)](https://github.com/Kespersantos/github-readme-stats)
+  [![Kesper Santos GitHub stats](https://github-readme-stats.vercel.app/api?username= Kesper santos)](https://github.com/Kespersantos/github-readme-stats)
 
 .
 
