@@ -1,10 +1,8 @@
 ### Olá como está? Me chamo Gaspar M.Santos "Kesper"
 
 
-- 🌱 I’m currently learning : C# e Javascript
+- 🌱 I’m currently learning : C#
 - 🤔 I’m looking for help with Programação
-- 😄 Pronouns: Ele/Dele
-
   
 
 <div align="center">
