@@ -20,7 +20,7 @@
 
   <img align="center" alt="Kesper-Js" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
   <img align="center" alt="Kesper-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kesper-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Kesper-Dart" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)">
   <img align="center" alt="Kesper-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kesper-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kesper-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
