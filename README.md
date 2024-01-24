@@ -1,7 +1,7 @@
 ### Olá como está? Me chamo Gaspar M.Santos "Kesper"
 
 
-- 🌱 I’m currently learning : Python e Javascript
+- 🌱 I’m currently learning : C# e Javascript
 - 🤔 I’m looking for help with Programação
 - 😄 Pronouns: Ele/Dele
 
@@ -17,6 +17,8 @@
 .
 
 <div style="display: inline_block"><br>
+
+  <img align="center" alt="Kesper-Js" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
   <img align="center" alt="Kesper-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kesper-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Kesper-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
