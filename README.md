@@ -1,8 +1,5 @@
-### Olá como está? Me chamo Gaspar M.Santos "Kesper"
+### Olá como está? Me chamo Gaspar Moreira "Kesper"
 
-
-- 🌱 I’m currently learning : C#
-- 🤔 I’m looking for help with Programação
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kespersantos&show_icons=true&theme=dracula)
 
